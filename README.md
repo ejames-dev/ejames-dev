@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ejames-dev
-- 👀 I’m interested in ... Agentic AI, LLM, Java, Computer hardware, Computer software, Web app development, Mobile app development
+- 👀 I’m interested in ... Agentic AI, LLM, Java, Computer hardware, Computer software, Web app development, Mobile app development, TypeScript
 - 🌱 I’m currently learning ... Currently enrolled in a three-year Computing Systems Engineering program 
 - 💞️ I’m looking to collaborate on ... development of open source software
 - 📫 How to reach me ... evanjames010101@gmail.com
